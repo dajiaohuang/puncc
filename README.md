@@ -65,7 +65,7 @@ conda install -c conda-forge puncc
 ## 📖 Documentation
 
 For comprehensive documentation, we encourage you to visit the [**official documentation page**](https://deel-ai.github.io/puncc/index.html).
-For a hands-on walkthrough of building new conformal methods with custom nonconformity scores, prediction sets, calibrators and splitters, see the [**Custom Conformal Methods tutorial**](docs/puncc_custom_methods.ipynb).
+For a hands-on walkthrough of building new conformal methods with custom nonconformity scores, prediction sets, calibrators and splitters, see the [**Custom Conformal Methods tutorial**](docs/puncc_custom_conformalization.ipynb).
 
 <a id="-tutorials"></a>
 ## 👨‍🎓 Tutorials
